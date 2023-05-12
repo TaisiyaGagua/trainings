@@ -1,0 +1,35 @@
+body {
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    align-items: center;
+    background-color: rgb(73, 23, 255);
+}
+
+h1 {
+    color: rgb(255, 242, 0);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+button {
+    transition: 0.3s;
+    border: none;
+    border-radius: 16px;
+    box-shadow: 30px 20px 20px rgb(37 29 89);
+    background-color: rgb(255, 242, 0);
+    cursor: pointer ;
+    width: 450px;
+    height: 450px;
+}
+
+.button:hover {
+    transform: scale(1.1);
+} 
+
+svg {
+color: rgb(73, 23, 255);
+}
+
+#button_icon2 {
+    margin-top: -92.5%;
+}
