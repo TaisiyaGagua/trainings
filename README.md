@@ -1,4 +1,4 @@
-# module10_homework
+# Exercises 
 
 1.  Screen Size;
 2.  SVG;
